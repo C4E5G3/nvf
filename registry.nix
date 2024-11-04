@@ -18,6 +18,7 @@
     ./config/sql.nix
     ./config/statusline.nix
     ./config/telescope.nix
+    ./config/treesitter.nix
     ./config/theme.nix
     ./config/which-key.nix
   ];
