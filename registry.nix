@@ -11,8 +11,10 @@
     ./config/neogit.nix
     ./config/neotest.nix
     ./config/neotree.nix
-    ./config/null-ls.nix
+    ./config/noice.nix
     ./config/nvim-dap.nix
+    ./config/nvim-surround.nix
+    ./config/oil.nix
     ./config/plenary.nix
     ./config/settings.nix
     ./config/sql.nix

@@ -6,7 +6,6 @@
               package = nvim-lspconfig;
           };
       };
-    
       maps.normal = {
           "<leader>m".action = "<cmd>lua vim.diagnostic.open_float()<CR>"; # Show diagnostics in a floating window
           "<leader>k".action = "<cmd>lua vim.diagnostic.goto_next()<CR>";  # Go to the next diagnostic
@@ -16,4 +15,3 @@
       };
   };
 }
-

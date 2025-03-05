@@ -55,7 +55,7 @@
           "<F5>".action = "<cmd>lua require'dap'.continue()<CR>";           # Start or continue debugging
           "<F10>".action = "<cmd>lua require'dap'.step_over()<CR>";         # Step over
           "<F11>".action = "<cmd>lua require'dap'.step_into()<CR>";         # Step into
-          "<F12>".action = "<cmd>lua require'dap'.step_out()<CR>";          # Step out
+          "<F9>".action = "<cmd>lua require'dap'.step_out()<CR>";          # Step out
           "<F8>".action = "<cmd>lua require'dap'.toggle_breakpoint()<CR>";  # Toggle breakpoint
           "<F7>".action = "<cmd>lua require'dap'.repl.open()<CR>";          # Open DAP REPL
           "<F6>".action = "<cmd>lua require'dap'.run_last()<CR>";           # Rerun last debug session

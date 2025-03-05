@@ -1,7 +1,7 @@
 {
   programs.nvf.settings.vim.maps = {
       insert = {
-          "\\".action = "<ESC>";
+          "<F12>".action = "<ESC>";
       };
   };
 }

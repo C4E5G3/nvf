@@ -8,6 +8,7 @@
         "nvim_lsp" = "[LSP]";
         "path" = "[Path]";
         "buffer" = "[Buffer]";
+        "luasnip" = "[Snippets]";
         };
     };
 
